@@ -1,0 +1,34 @@
+_repo: A-new-note-in-the-Christmas-Carol_70097
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mingins, Clara Wood
+    birthdate: 1860
+    gutenberg_agent_id: '55597'
+    url: http://www.gutenberg.org/2009/agents/55597
+description: ''
+gutenberg_issued: '2023-02-21'
+identifiers:
+  gutenberg: '70097'
+  lccn: '14001659'
+language: en
+pgterms:marc904: https://archive.org/details/newvoteinchristm00ming/page/n1/mode/2up
+pgterms:marc905: 20211120192058mingins
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bThe Sherwood Company, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Motherless families -- Fiction'
+- !lcsh 'Missing children -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A new note in the Christmas Carol
+url: http://www.gutenberg.org/ebooks/70097
